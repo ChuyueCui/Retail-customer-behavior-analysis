@@ -36,4 +36,4 @@ The goal is to understand how demographic factors, product preferences, and ship
 
 - 📊 Presentation: [View Slides](./retail-customer-behavior-analysis.pdf)  
 - 📓 Notebook: [View Code](./retail-customer-behavior-analysis.ipynb)  
-- 🧠 Research Design: [View Project Idea](./retail-customer-behavior-analysis-idea.pdf)  
+- 🧠 Research Design: [View Project Idea](./retail-customer-behavior-analysis-Idea.pdf)  
