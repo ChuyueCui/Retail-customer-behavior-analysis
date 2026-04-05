@@ -32,6 +32,8 @@ The goal is to understand how demographic factors, product preferences, and ship
 - Data Visualization  
 
 📄 Project Materials  
+## 📄 Project Materials  
 
-- 📊 Presentation: [View Slides](./customer_behavior_analysis_presentation.pdf)
-- 📓 Notebook: [View Code](./customer_behavior_analysis.ipynb)
+- 📊 Presentation: [View Slides](./retail-customer-behavior-analysis.pdf)  
+- 📓 Notebook: [View Code](./retail-customer-behavior-analysis.ipynb)  
+- 🧠 Research Design: [View Project Idea](./retail-customer-behavior-analysis-idea.pdf)  
